@@ -1,0 +1,17 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.egg-info/
+.env
+# OS / Editor
+.DS_Store
+*.swp
+# Docker
+dbdata/
+# VSCode
+.vscode/
+# Logs
+*.log

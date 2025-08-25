@@ -1,0 +1,186 @@
+{
+  "document_id": "doc-001",
+  "title": "Sample",
+  "num_pages": 1,
+  "paragraphs": [
+    {
+      "page": 1,
+      "bbox": [
+        39.68480682373047,
+        376.5185852050781,
+        422.2339172363281,
+        465.7963562011719
+      ],
+      "text": "The plot of inhibitor concentration over degree of surface coverage versus inhibitor concentration\ngives a straight line as shown in Fig. 5. The strong correlation reveals that egg shell adsorption on\nstainless surface in 0.5 M H2SO4 follow Langmuir adsorption isotherm. Figs. 6\u20138 show the SEM/EDX\nsurface morphology analysis of stainless steel. Figs. 7 and 8 are the SEM/EDX images of the stainless\nsteel specimens without and with inhibitor after weight loss experiment in sulphuric acid medium.\nThe stainless steel surface corrosion product layer in the absence of inhibitor was porous and as a\nresult gives no corrosion protection. With the presence of ES, corrosion damage was minimized, with\nan evidence of ES present on the metal surface as shown in Fig. 8."
+    },
+    {
+      "page": 1,
+      "bbox": [
+        39.685001373291016,
+        256.4092102050781,
+        383.2442626953125,
+        273.9468994140625
+      ],
+      "text": "Table 1\nPotentiodynamic polarization data for stainless steel in the absence and presence of ES in 0.5 M H2SO4 solution."
+    },
+    {
+      "page": 1,
+      "bbox": [
+        45.63775634765625,
+        281.3024597167969,
+        416.2510681152344,
+        299.5531311035156
+      ],
+      "text": "Inhibitor\nconcentration (g)\nbc (V/dec)\nba (V/dec)\nEcorr (V)\nicorr (A/cm2)\nPolarization\nresistance (\u03a9)\nCorrosion\nrate (mm/year)"
+    },
+    {
+      "page": 1,
+      "bbox": [
+        45.63714599609375,
+        307.7233581542969,
+        388.869873046875,
+        362.8056640625
+      ],
+      "text": "0\n0.0335\n0.0409\n\ufffd0.9393\n0.0003\n24.0910\n2.8163\n2\n1.9460\n0.0596\n\ufffd0.8276\n0.0002\n121.440\n1.5054\n4\n0.0163\n0.2369\n\ufffd0.8825\n0.0001\n42.121\n0.9476\n6\n0.3233\n0.0540\n\ufffd0.8027\n5.39E-05\n373.180\n0.4318\n8\n0.1240\n0.0556\n\ufffd0.5896\n5.46E-05\n305.650\n0.3772\n10\n0.0382\n0.0086\n\ufffd0.5356\n1.24E-05\n246.080\n0.0919"
+    },
+    {
+      "page": 1,
+      "bbox": [
+        110.947998046875,
+        66.72698974609375,
+        351.177978515625,
+        228.13198852539062
+      ],
+      "text": "<image: DeviceRGB, width: 1001, height: 673, bpc: 8>"
+    },
+    {
+      "page": 1,
+      "bbox": [
+        42.06610107421875,
+        234.4124298095703,
+        419.82501220703125,
+        243.389404296875
+      ],
+      "text": "Fig. 4. Anodic and cathodic polarization curve of stainless steel in 0.5 M H2SO4 solution in the presence and absence of ES."
+    },
+    {
+      "page": 1,
+      "bbox": [
+        125.47698974609375,
+        588.87744140625,
+        321.1560974121094,
+        605.0681762695312
+      ],
+      "text": "10\n8\n6\n4\n2\n2"
+    },
+    {
+      "page": 1,
+      "bbox": [
+        125.47698974609375,
+        568.5532836914062,
+        128.9055633544922,
+        576.7608642578125
+      ],
+      "text": "4"
+    },
+    {
+      "page": 1,
+      "bbox": [
+        125.47698974609375,
+        548.1927490234375,
+        128.9055633544922,
+        556.4003295898438
+      ],
+      "text": "6"
+    },
+    {
+      "page": 1,
+      "bbox": [
+        125.47698974609375,
+        527.79638671875,
+        128.9055633544922,
+        536.0039672851562
+      ],
+      "text": "8"
+    },
+    {
+      "page": 1,
+      "bbox": [
+        122.04779815673828,
+        507.47222900390625,
+        128.90618896484375,
+        515.6798095703125
+      ],
+      "text": "10"
+    },
+    {
+      "page": 1,
+      "bbox": [
+        122.04779815673828,
+        487.146240234375,
+        128.90618896484375,
+        495.3538513183594
+      ],
+      "text": "12"
+    },
+    {
+      "page": 1,
+      "bbox": [
+        109.99620056152344,
+        537.533447265625,
+        118.20381164550781,
+        547.1273193359375
+      ],
+      "text": "C/0"
+    },
+    {
+      "page": 1,
+      "bbox": [
+        202.3175048828125,
+        606.7166137695312,
+        249.96170043945312,
+        614.9241943359375
+      ],
+      "text": "Concentration (g)"
+    },
+    {
+      "page": 1,
+      "bbox": [
+        334.381591796875,
+        482.2571105957031,
+        345.68853759765625,
+        490.4647216796875
+      ],
+      "text": "C/0"
+    },
+    {
+      "page": 1,
+      "bbox": [
+        163.89920043945312,
+        621.1714477539062,
+        298.04962158203125,
+        629.0712890625
+      ],
+      "text": "Fig. 5. Langmuir adsorption isotherm of ES."
+    },
+    {
+      "page": 1,
+      "bbox": [
+        39.6844482421875,
+        43.758323669433594,
+        315.5270080566406,
+        51.59442901611328
+      ],
+      "text": "O. Sanni, A.P.I. Popoola / Data in Brief 22 (2019) 451\u2013457\n454"
+    }
+  ],
+  "tables": [],
+  "images": [
+    {
+      "page": 1,
+      "bbox": null,
+      "caption": null,
+      "ocr_text": null
+    }
+  ]
+}
